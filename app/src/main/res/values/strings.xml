@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RecyclerViewApp</string>
+    <string name="add_item">Add new item</string>
+    <string name="name">Nome</string>
+    <string name="phone">Telefone</string>
+    <string name="hint_phone">Digite o telefone...</string>
+    <string name="hint_name">Digite o nome...</string>
+    <string name="save">Salvar</string>
+    <string name="alert_added_item">Item adicionado</string>
+    <string name="undo">"Desfazer"</string>
+    <string name="endereco">Endereço</string>
+    <string name="hint_endereco">Digite o endereço...</string>
+</resources>
